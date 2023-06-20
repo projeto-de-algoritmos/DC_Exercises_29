@@ -26,6 +26,11 @@ Dado um array de números inteiros nums, retorne um array de inteiros counts, on
 
 ![315. Count of Smaller Numbers After Self](/imagens/315.png)
 
+## [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+
+Encontrar o K-ésimo maior elemento em um array não ordenado. Uma abordagem eficiente para resolvê-lo é usar a técnica de seleção com a média das medianas para dividir o array em grupos menores e encontrar a posição correta do K-ésimo elemento.
+
+![215. Kth Largest Element in an Array](/imagens/215.jpeg)
 
 
 # Instalação
