@@ -5,23 +5,35 @@
 | [Matheus Perillo](https://github.com/MatheusPerillo) | 190093421
 
 # Introdução 
-Este repositório foi criado para o desenvolvimento do terceiro módulo [...]
+Este repositório foi criado para o desenvolvimento do segundo módulo de Dividir e Conquistar da disciplina Projeto de Algoritmos do Professor Maurício Serrano. Ele aborda os algoritmos como o do Media das Medianas, Contagem de Inversão e Par de Pontos mais próximos.
+Portanto fizemos a resolução de alguns exercícios em Judges.
 
 # Apresentação
 
-[Link para a apresentação da dupla 29](link aqui) 
+[Link para a apresentação da dupla 29]() 
 
 # Foram feitos os exercícios no LeetCode
 
-## [nº. Nome do exercício](link do exercício)
+## [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
-![Print do exercício](path da imagem)
+Dado um array de pontos no plano cartesiano representado por points[i] = [xi, yi] e um número inteiro k, retorne os k pontos mais próximos da origem (0, 0). 
+
+![973. K Closest Points to Origin](/imagens/973.png)
+
+## [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+
+Dado um array de números inteiros nums, retorne um array de inteiros counts, onde counts[i] é o número de elementos menores à direita de nums[i].
+
+![315. Count of Smaller Numbers After Self](/imagens/315.png)
+
+
 
 # Instalação
 
 Pré-Requisitos: Os códigos devem ser rodados na própria plataforma do leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
 
 Caso queira rodar local, é necessário somente chamar o método da classe com os paramêtros condizente com a assinatura de acordo com a linguagem desenvolvida.
+
 
 # Uso
 ## Passo 1: Copiar o código
