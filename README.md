@@ -28,10 +28,15 @@ Dado um array de números inteiros nums, retorne um array de inteiros counts, on
 
 ## [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
-Encontrar o K-ésimo maior elemento em um array não ordenado. Uma abordagem eficiente para resolvê-lo é usar a técnica de seleção com a média das medianas para dividir o array em grupos menores e encontrar a posição correta do K-ésimo elemento.
+Encontrar o K-ésimo maior elemento em um array não ordenado. Uma abordagem eficiente para resolvê-lo é usar a técnica de seleção com a Média das medianas para dividir o array em grupos menores e encontrar a posição correta do K-ésimo elemento.
 
 ![215. Kth Largest Element in an Array](/imagens/215.jpeg)
 
+## [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
+
+Neste problema, dado um array de números inteiros, você precisa contar o número de pares de índices (i, j), onde i < j, e nums[i] > 2 * nums[j]. Por exemplo, dada a entrada [1, 3, 2, 3, 1], existem 2 pares invertidos: (3, 1) e (3, 1). Portanto, a saída esperada é 2. Para resolver este exercício foi utilizado o algorítmo Contagem de inversão para contar os pares de elementos que satisfazem a condição de inversão.
+
+![493. Reverse Pairs](/imagens/493.jpeg)
 
 # Instalação
 
