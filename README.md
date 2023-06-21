@@ -10,7 +10,7 @@ Portanto fizemos a resolução de alguns exercícios em Judges.
 
 # Apresentação
 
-[Link para a apresentação da dupla 29]() 
+[Link para a apresentação da dupla 29](https://youtu.be/0MMah_3mOl8) 
 
 # Foram feitos os exercícios no LeetCode
 
